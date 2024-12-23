@@ -3,7 +3,7 @@ package com.example.mytrainingsession
 import androidx.lifecycle.ViewModel
 
 class ExercisesViewModel(): ViewModel() {
-    val baseDuration = 5
+    val baseDuration = 60
     private val listOfExercises = listOf(
         Exercise(
             "Dumbbell",
