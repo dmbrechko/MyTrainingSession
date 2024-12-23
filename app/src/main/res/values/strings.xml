@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyTrainingSession</string>
+    <string name="become_stronger">Become stronger!</string>
+    <string name="go_to_exercises">Go to exercises</string>
+    <string name="fitness_app">Fitness app</string>
+    <string name="select_exercise">Select exercise</string>
+    <string name="exit">Exit</string>
+    <string name="exercise">Exercise</string>
+    <string name="timer">Time left: %d minutes %d seconds</string>
+    <string name="time_left_0">Time left: 0</string>
+    <string name="start_exercise">Start exercise</string>
+    <string name="go_next">Go next exercise</string>
+    <string name="last_done">Last done!</string>
+    <string name="training">Training in progress</string>
+</resources>
